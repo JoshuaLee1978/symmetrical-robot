@@ -1,1 +1,3 @@
 # symmetrical-robot
+AI
+Cool 
